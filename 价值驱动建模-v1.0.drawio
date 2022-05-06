@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T03:33:31.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QtjSO7ZjEVWOnJixAHJY" version="18.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-06T01:33:30.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="fPkNkti-HDQrSvwwHFUk" version="18.0.0" type="github" pages="2">
   <diagram id="4Q9TF3lznDVTkEvCDdlb" name="价值故事">
-    <mxGraphModel dx="1554" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="2106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,19 +169,19 @@
         <mxCell id="bpDGhnPp3fPbOnquEx1t-82" value="价值生产者" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=京东朗正体;fontSize=19;fontColor=#000000;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="82" y="-860" width="39" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-2" value="业务故事" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=京东朗正体;fontSize=19;fontColor=#000000;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-2" value="业务故事" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=京东朗正体;fontSize=19;fontColor=#000000;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="82" y="-1120" width="39" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-3" value="业务背景" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=京东朗正体;fontSize=19;fontColor=#000000;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-3" value="业务背景" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=京东朗正体;fontSize=19;fontColor=#000000;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="160" y="-1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-5" value="" style="curved=1;endArrow=classic;html=1;fontFamily=京东朗正;fontSize=16;strokeColor=#000000;strokeWidth=2;sketch=0;anchorPointDirection=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bpDGhnPp3fPbOnquEx1t-61">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-5" value="" style="curved=1;endArrow=classic;html=1;fontFamily=京东朗正;fontSize=16;strokeColor=#000000;strokeWidth=2;sketch=0;anchorPointDirection=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="bpDGhnPp3fPbOnquEx1t-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="-720" as="sourcePoint" />
             <mxPoint x="990" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-8" value="" style="curved=1;endArrow=classic;html=1;fontFamily=京东朗正;fontSize=16;strokeColor=#CC0000;strokeWidth=2;sketch=0;anchorPointDirection=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpDGhnPp3fPbOnquEx1t-57">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-8" value="" style="curved=1;endArrow=classic;html=1;fontFamily=京东朗正;fontSize=16;strokeColor=#CC0000;strokeWidth=2;sketch=0;anchorPointDirection=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bpDGhnPp3fPbOnquEx1t-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="-525" as="sourcePoint" />
             <mxPoint x="300" y="-770" as="targetPoint" />
@@ -191,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-10" value="" style="endArrow=classic;html=1;fontFamily=京东朗正;fontSize=16;strokeColor=#CC0000;strokeWidth=2;sketch=0;anchorPointDirection=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="bpDGhnPp3fPbOnquEx1t-40" target="bpDGhnPp3fPbOnquEx1t-57">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-10" value="" style="endArrow=classic;html=1;fontFamily=京东朗正;fontSize=16;strokeColor=#CC0000;strokeWidth=2;sketch=0;anchorPointDirection=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="bpDGhnPp3fPbOnquEx1t-40" target="bpDGhnPp3fPbOnquEx1t-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="-305" as="sourcePoint" />
             <mxPoint x="700" y="-550" as="targetPoint" />
@@ -202,10 +202,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="1" source="bpDGhnPp3fPbOnquEx1t-49" target="bpDGhnPp3fPbOnquEx1t-53">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CC0000;strokeWidth=2;" parent="1" source="bpDGhnPp3fPbOnquEx1t-49" target="bpDGhnPp3fPbOnquEx1t-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="1" source="bpDGhnPp3fPbOnquEx1t-67" target="bpDGhnPp3fPbOnquEx1t-71">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;" parent="1" source="bpDGhnPp3fPbOnquEx1t-67" target="bpDGhnPp3fPbOnquEx1t-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="980" y="-770" />
@@ -213,7 +213,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9hHqoM9A22FSPVNlVHQ-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="1" source="bpDGhnPp3fPbOnquEx1t-71">
+        <mxCell id="S9hHqoM9A22FSPVNlVHQ-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#CC0000;strokeWidth=2;" parent="1" source="bpDGhnPp3fPbOnquEx1t-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="-250" as="targetPoint" />
             <Array as="points">
